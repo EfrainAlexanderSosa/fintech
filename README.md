@@ -128,14 +128,3 @@ cd frontend-angular && npm install && ng serve
 | DELETE | /api/prestamos/{id} | Eliminar |
 
 ---
-
-## 👥 Integrantes
-
-| Nombre | Rol |
-|---|---|
-| Hugo Alexander Loza Torres | Coordinador |
-| Ketty Grandez Ushiñahua | Desarrolladora |
-| Ricardo Lucas Ascue Culquicondor | Desarrollador |
-| Frank Keny Aguirre Balcazar | Desarrollador |
-
-**Docente:** Ronald Castillo · DAW II (4697) · CIBERTEC 2026
