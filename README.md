@@ -1,4 +1,4 @@
-# 💳 FinTechPro — Proyecto Final DAW II · CIBERTEC 2026
+# 💳 FinTechPro 
 
 Aplicación web full-stack de servicios financieros con **4 microservicios Spring Boot + Hibernate/JPA + MySQL + FeignClient** y frontend **Angular 17**.
 
